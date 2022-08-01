@@ -1,0 +1,4 @@
+root: C:\Users\tkolaric\gitHub-Toni\reactNodejsMongoDB_project\signupfront\signupbackend 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
